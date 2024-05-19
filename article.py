@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
 import nltk
-nltk.download('punkt')
 import PyPDF2
 import io
 from functools import reduce
